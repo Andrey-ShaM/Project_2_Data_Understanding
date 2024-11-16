@@ -6,13 +6,13 @@
 
 [2. Цель проекта](#цель-проекта)
 
-[3. Краткая информация о данных](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](#краткая-информация-о-данных)
 
-[4. Основные этапы проекта](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Основные-этапы-проекта)
+[4. Основные этапы проекта](#основные-этапы-проекта)
 
-[5. Результаты](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Результаты)
+[5. Результаты](#результаты)
 
-[6. Выводы](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Выводы)
+[6. Выводы](#выводы)
 
 ### Описание проекта
 
@@ -20,13 +20,13 @@
 
 Мы будем проводить Data Understanding, или анализ данных, как один из этапов работы над ML-проектом.
 
-:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 
 ### Цель проекта
 
 Анализ данных посредством запросов к базам данных с использованием SQL
 
-:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 
 ### Краткая информация о данных
 
@@ -46,7 +46,7 @@
 
 7. Используемые версии библиотек приведены в файле requirements.txt
 
-:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 
 ### Основные этапы проекта
 
@@ -62,7 +62,7 @@
 
 * Дополнительные исследования данных
 
-:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 
 ### Результаты
 
@@ -105,7 +105,7 @@
 
 В результате работы над проектом была проанализированна, преобразованна и очищенна база данных результат записан в файл data_clean.csv, сохранненый в папке data.
 
-:arrow_up:[к оглавлению](#Оглавление)
+:arrow_up:[к оглавлению](#оглавление)
 
 
 ### Выводы
@@ -120,4 +120,4 @@
 9. Дополнительно было рассмотрено распределение вакансий по сферам деятельности, в том числе рассмотрено в каких сферах наиболее востребована вакансия дата-саентиста.
 
 
-:arrow_up:[к оглавлению](#Оглавление)
+:arrow_up:[к оглавлению](#оглавление)
