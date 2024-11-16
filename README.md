@@ -2,17 +2,17 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Описание-проекта)
 
-[2. Цель проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Цель-проекта)
+[2. Цель проекта](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Цель-проекта)
 
-[3. Краткая информация о данных](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Краткая-информация-о-данных)
 
-[4. Основные этапы проекта](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Основные-этапы-проекта)
+[4. Основные этапы проекта](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Основные-этапы-проекта)
 
-[5. Результаты](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Результаты)
+[5. Результаты](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Результаты)
 
-[6. Выводы](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Выводы)
+[6. Выводы](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Выводы)
 
 ### Описание проекта
 
@@ -20,13 +20,13 @@
 
 Мы будем проводить Data Understanding, или анализ данных, как один из этапов работы над ML-проектом.
 
-:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Оглавление)
 
 ### Цель проекта
 
 Анализ данных посредством запросов к базам данных с использованием SQL
 
-:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Оглавление)
 
 ### Краткая информация о данных
 
@@ -46,7 +46,7 @@
 
 7. Используемые версии библиотек приведены в файле requirements.txt
 
-:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Оглавление)
 
 ### Основные этапы проекта
 
@@ -62,7 +62,7 @@
 
 * Дополнительные исследования данных
 
-:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Оглавление)
 
 ### Результаты
 
@@ -105,7 +105,7 @@
 
 В результате работы над проектом была проанализированна, преобразованна и очищенна база данных результат записан в файл data_clean.csv, сохранненый в папке data.
 
-:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Оглавление)
 
 
 ### Выводы
@@ -122,4 +122,4 @@
 11. Дополнительно было рассмотрено распределение вакансий по сферам деятельности, в том числе рассмотрено в каких сферах наиболее востребована вакансия дата-саентиста.
 
 
-:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_1_Data_analysis/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Оглавление)
