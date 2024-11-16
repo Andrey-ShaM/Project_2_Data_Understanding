@@ -2,9 +2,9 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Описание-проекта)
+[1. Описание проекта](#описание-проекта)
 
-[2. Цель проекта](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Цель-проекта)
+[2. Цель проекта](#цель-проекта)
 
 [3. Краткая информация о данных](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Краткая-информация-о-данных)
 
@@ -105,7 +105,7 @@
 
 В результате работы над проектом была проанализированна, преобразованна и очищенна база данных результат записан в файл data_clean.csv, сохранненый в папке data.
 
-:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](#Оглавление)
 
 
 ### Выводы
@@ -120,4 +120,4 @@
 9. Дополнительно было рассмотрено распределение вакансий по сферам деятельности, в том числе рассмотрено в каких сферах наиболее востребована вакансия дата-саентиста.
 
 
-:arrow_up:[к оглавлению](https://github.com/Andrey-ShaM/Project_2_Data_Understanding/blob/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](#Оглавление)
